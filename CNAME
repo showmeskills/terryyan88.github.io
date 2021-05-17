@@ -1,6 +1,1 @@
-$ORIGIN www.dragonhub.com.au.
-$TTL 1800
-www.dragonhub.com.au. IN SOA ns1.digitalocean.com. hostmaster.www.dragonhub.com.au. 1620975418 10800 3600 604800 1800
-www.dragonhub.com.au. 1800 IN NS ns1.digitalocean.com.
-www.dragonhub.com.au. 1800 IN NS ns2.digitalocean.com.
-www.dragonhub.com.au. 1800 IN NS ns3.digitalocean.com.
+dragonhub.com.au
